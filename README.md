@@ -1,3 +1,7 @@
+LINK VIDEO_DEMO_ASS2: https://drive.google.com/file/d/1SnXYOY-CQK2bS34Lu0WaKdMqw6L_dW1l/view?usp=sharing
+LINK GITHUB: https://github.com/1tramnkce191681/Ass2_MMA301_StyleMe
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
