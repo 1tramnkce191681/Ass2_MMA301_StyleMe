@@ -2,6 +2,7 @@ LINK VIDEO_DEMO_ASS2: https://drive.google.com/file/d/1SnXYOY-CQK2bS34Lu0WaKdMqw
 
 LINK GITHUB: https://github.com/1tramnkce191681/Ass2_MMA301_StyleMe
 
+LINK DOC: https://docs.google.com/document/d/1fkoSenzAeUKrlXbHKVn7wGfVJN30kkWbXRYzSQ3J3nI/edit?usp=sharing
 
 # Welcome to your Expo app 👋
 
