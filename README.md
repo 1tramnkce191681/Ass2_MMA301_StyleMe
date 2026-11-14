@@ -1,4 +1,4 @@
-LINK VIDEO_DEMO_ASS2: https://drive.google.com/file/d/1SnXYOY-CQK2bS34Lu0WaKdMqw6L_dW1l/view?usp=sharing
+LINK VIDEO_DEMO_ASS2: [https://drive.google.com/file/d/1SnXYOY-CQK2bS34Lu0WaKdMqw6L_dW1l/view?usp=sharing](https://drive.google.com/file/d/1SnXYOY-CQK2bS34Lu0WaKdMqw6L_dW1l/view?usp=sharing)
 
 LINK GITHUB: https://github.com/1tramnkce191681/Ass2_MMA301_StyleMe
 
